@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156" height="44" viewBox="0 0 156 44" role="img" aria-label="Email">
+<defs><style>text{font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}</style>
+<linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="156" y2="44"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#fb923c"/>
+<animateTransform attributeName="gradientTransform" type="rotate" from="0 78 22" to="360 78 22" dur="5s" repeatCount="indefinite"/></linearGradient></defs>
+<rect x="1" y="1" width="154" height="42" rx="21" fill="#0a0f16" stroke="url(#g)" stroke-width="1.8"/>
+<g transform="translate(24 12)"><rect x="1" y="3" width="18" height="14" rx="2.5" fill="none" stroke="#e5e7eb" stroke-width="1.6"/><path d="M2 5l8 6 8-6" fill="none" stroke="#e5e7eb" stroke-width="1.6" stroke-linejoin="round"/></g>
+<text x="54" y="27" font-size="14" font-weight="600" fill="#e5e7eb">Email</text>
+</svg>

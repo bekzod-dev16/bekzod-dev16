@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300" role="img" aria-label="Men haqimda">
+<title>Men haqimda</title>
+<!-- ✏️ Matnlarni pastdagi <text> teglari ichida o‘zgartiring -->
+<defs>
+<style>
+text{font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+.m,.fl{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.lbl{font-size:11px;letter-spacing:4px;fill:#5f6f83;font-weight:600}
+.bk{animation:b 1.1s steps(1) infinite}@keyframes b{50%{fill-opacity:0}}
+.d1{animation:d 15s ease-in-out infinite}.d2{animation:d 19s ease-in-out infinite reverse}
+@keyframes d{50%{transform:translate(34px,-16px)}}
+.st{opacity:.5;animation:tw 3.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes tw{0%,100%{opacity:.12;transform:scale(.5)}50%{opacity:.95;transform:scale(1)}}
+.fl{opacity:.25;animation:fl 9s ease-in-out infinite both}
+@keyframes fl{0%{opacity:0;transform:translateY(14px)}25%,60%{opacity:.38}100%{opacity:0;transform:translateY(-34px)}}
+.ph{opacity:0;animation:cyc 12s ease-in-out infinite both}.first{opacity:1}
+@keyframes cyc{0%{opacity:0;transform:translateY(10px)}3%,22%{opacity:1;transform:translateY(0)}25%,100%{opacity:0;transform:translateY(-10px)}}
+.sw{animation:sw 6s ease-in-out infinite}
+@keyframes sw{0%{transform:translateX(-230px)}35%,100%{transform:translateX(900px)}}
+.rs{animation:rs .7s ease-out both}
+@keyframes rs{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+.pu{animation:pu 2.4s ease-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pu{0%{opacity:.7;transform:scale(1)}100%{opacity:0;transform:scale(3)}}
+.gr{transform-box:fill-box;transform-origin:0 50%;animation:gr 1.4s cubic-bezier(.2,.7,.2,1) both}
+@keyframes gr{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.bob{animation:bob 3s ease-in-out infinite}
+@keyframes bob{50%{transform:translateY(-5px)}}
+.w1{animation:wv 9s linear infinite}.w2{animation:wv 13s linear infinite reverse}
+@keyframes wv{to{transform:translateX(-380px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+</style>
+<filter id="bl" filterUnits="userSpaceOnUse" x="-200" y="-200" width="1160" height="700"><feGaussianBlur stdDeviation="44"/></filter>
+<clipPath id="cp"><rect width="760" height="300" rx="18"/></clipPath>
+
+</defs>
+<rect width="760" height="300" rx="18" fill="#070b12"/>
+<g clip-path="url(#cp)"><g filter="url(#bl)">
+  <circle class="d1" cx="60" cy="120" r="130" fill="#0d9488" opacity="0.35"/>
+  <circle class="d2" cx="700" cy="250" r="110" fill="#2563eb" opacity="0.22"/>
+</g></g>
+<rect x=".5" y=".5" width="759" height="299" rx="17.5" fill="none" stroke="#fff" stroke-opacity=".09"/>
+<text x="44" y="56" class="lbl">MEN HAQIMDA</text>
+<text x="44" y="100" font-size="23" fill="#f1f5f9" font-weight="700" class="rs" style="animation-delay:0.00s">G‘oyalarni ishlaydigan</text>
+<text x="44" y="130" font-size="23" fill="#f1f5f9" font-weight="700" class="rs" style="animation-delay:0.12s">saytlarga aylantirishni</text>
+<text x="44" y="160" font-size="23" fill="#f1f5f9" font-weight="700" class="rs" style="animation-delay:0.24s">o‘rganyapman</text>
+<text x="44" y="204" font-size="13.5" fill="#8b98a9" class="rs" style="animation-delay:0.45s">Men Bekzod. HTML, CSS va JavaScript’ni</text>
+<text x="44" y="226" font-size="13.5" fill="#8b98a9" class="rs" style="animation-delay:0.57s">noldan, amaliy loyihalar orqali</text>
+<text x="44" y="248" font-size="13.5" fill="#8b98a9" class="rs" style="animation-delay:0.69s">o‘rganyapman. Maqsadim — chiroyli va</text>
+<text x="44" y="270" font-size="13.5" fill="#8b98a9" class="rs" style="animation-delay:0.81s">ishlaydigan saytlar qurish.</text>
+<rect x="424" y="30" width="312" height="240" rx="12" fill="#0a1018" fill-opacity=".92" stroke="#fff" stroke-opacity=".1"/>
+<path d="M424 62H736" stroke="#fff" stroke-opacity=".07"/>
+<circle cx="444" cy="46" r="4.5" fill="#ef4444" fill-opacity=".8"/><circle cx="460" cy="46" r="4.5" fill="#f59e0b" fill-opacity=".8"/><circle cx="476" cy="46" r="4.5" fill="#22c55e" fill-opacity=".8"/>
+<text x="590" y="50" font-size="11" fill="#64748b" text-anchor="middle" class="m">bekzod.js</text>
+<text class="m rs" x="446" y="94" font-size="12.5" style="animation-delay:0.60s"><tspan fill="#c084fc">const</tspan><tspan fill="#e2e8f0"> bekzod</tspan><tspan fill="#64748b"> = {</tspan></text>
+<text class="m rs" x="461" y="118" font-size="12.5" style="animation-delay:1.00s"><tspan fill="#7dd3fc">rol</tspan><tspan fill="#64748b">: </tspan><tspan fill="#86efac">"JavaScript o‘rganuvchi"</tspan><tspan fill="#64748b">,</tspan></text>
+<text class="m rs" x="461" y="142" font-size="12.5" style="animation-delay:1.40s"><tspan fill="#7dd3fc">stek</tspan><tspan fill="#64748b">: [</tspan><tspan fill="#86efac">"HTML"</tspan><tspan fill="#64748b">, </tspan><tspan fill="#86efac">"CSS"</tspan><tspan fill="#64748b">, </tspan><tspan fill="#86efac">"JS"</tspan><tspan fill="#64748b">],</tspan></text>
+<text class="m rs" x="461" y="166" font-size="12.5" style="animation-delay:1.80s"><tspan fill="#7dd3fc">hozir</tspan><tspan fill="#64748b">: </tspan><tspan fill="#86efac">"JavaScript asoslari"</tspan><tspan fill="#64748b">,</tspan></text>
+<text class="m rs" x="461" y="190" font-size="12.5" style="animation-delay:2.20s"><tspan fill="#7dd3fc">maqsad</tspan><tspan fill="#64748b">: </tspan><tspan fill="#86efac">"chiroyli saytlar"</tspan><tspan fill="#64748b">,</tspan></text>
+<text class="m rs" x="446" y="214" font-size="12.5" style="animation-delay:2.60s"><tspan fill="#64748b">};</tspan></text>
+<text class="m rs" x="446" y="238" font-size="12.5" style="animation-delay:3.00s"><tspan fill="#e2e8f0">bekzod</tspan><tspan fill="#64748b">.</tspan><tspan fill="#fde68a">kodYoz</tspan><tspan fill="#64748b">();</tspan><tspan class="bk" fill="#e2e8f0"> _</tspan></text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156" height="44" viewBox="0 0 156 44" role="img" aria-label="Telegram">
+<defs><style>text{font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}</style>
+<linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="156" y2="44"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#3b82f6"/>
+<animateTransform attributeName="gradientTransform" type="rotate" from="0 78 22" to="360 78 22" dur="5s" repeatCount="indefinite"/></linearGradient></defs>
+<rect x="1" y="1" width="154" height="42" rx="21" fill="#0a0f16" stroke="url(#g)" stroke-width="1.8"/>
+<g transform="translate(24 12)"><path transform="scale(.039)" fill="#e5e7eb" d="M446.7 98.6l-67.6 318.8c-5.1 22.5-18.4 28.1-37.3 17.5l-103-75.9-49.7 47.8c-5.5 5.5-10.1 10.1-20.7 10.1l7.4-104.9 190.9-172.5c8.3-7.4-1.8-11.5-12.9-4.1L117.8 284 16.2 252.2c-22.1-6.9-22.5-22.1 4.6-32.7L418.2 66.4c18.4-6.9 34.5 4.1 28.5 32.2z"/></g>
+<text x="54" y="27" font-size="14" font-weight="600" fill="#e5e7eb">Telegram</text>
+</svg>
